@@ -36,10 +36,30 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=3540450500');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=2029842091');
       });
     }
   </script>
   <script src="main.dart.js" type="application/javascript"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-app.js"></script>
+<!--  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-database.js"></script>-->
+<!--  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-firestore.js"></script>-->
+  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-storage.js"></script>
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyA3XXiF61LANQUoGtlMVU6DeGX40IKTLCg",
+      authDomain: "llrmsg-6bd04.firebaseapp.com",
+      databaseURL: "https://llrmsg-6bd04.firebaseio.com",
+      projectId: "llrmsg-6bd04",
+      storageBucket: "llrmsg-6bd04.appspot.com",
+      messagingSenderId: "721567125675",
+      appId: "1:721567125675:web:6b4de5331f092d064627ee",
+      measurementId: "G-3K73KS66M3"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
+
 </body>
 </html>

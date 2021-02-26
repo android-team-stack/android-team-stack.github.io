@@ -7,7 +7,7 @@ const RESOURCES = {
 "index.html": "35eeaf325044fe4b9f6328afa40eeb4b",
 "/": "35eeaf325044fe4b9f6328afa40eeb4b",
 "firebase-messaging-sw.js": "15717026be4bd8d9953f18e1f69aa9e0",
-"main.dart.js": "9bfff78da9d82db34f8ab513c3eac9d7",
+"main.dart.js": "2a2f211eb14ee5862633ce3c92eea713",
 "favicon.png": "1671fb3711339c8c62bccb77c62abf16",
 "icons/Icon-192.png": "701272d75a4ca9a1cefafafe00e7b4fb",
 "icons/Icon-512.png": "78c998aded2b93220db3160b7386b16c",
@@ -27,15 +27,16 @@ const RESOURCES = {
 "assets/images/toilet.svg": "ee440811030a9f00e0abd683cb9378a3",
 "assets/images/bed_image.svg": "0b3c29bcbdbca5945e38d441e86d9417",
 "assets/images/kitchen.svg": "7aad0749e0388aab82f518b5f5e057e6",
-"assets/images/radarIcon.svg": "7e6e5f16753a66a5bb2d95b823a718a0",
 "assets/images/attach.svg": "67aa9672351f733a652b4d0090c5a0a7",
 "assets/images/default.png": "28be6e6acb73edc636c846b94709eb50",
 "assets/images/garden.svg": "996e73eb6953e52b5d8036a3e3f91053",
 "assets/images/image.png": "e28fc57ef1db10cf7378abf93eefe7a3",
-"assets/AssetManifest.json": "c78f28705af954b52ea38bc1515c02e5",
-"assets/NOTICES": "f7765f8393f3626cfdc18a3385b341b5",
+"assets/AssetManifest.json": "c70066aa943c78b6dfef400d499455da",
+"assets/NOTICES": "5b03cb4aac96a8a28cc5fd53095fbab3",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
+"assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac"
 };
 
